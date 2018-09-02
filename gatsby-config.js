@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Forty by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Forty by HTML5 UP"
+    title: "Clumsy Rider",
+    author: "Can Ibanoglu",
+    description: "Adventures of a clumsy bike rider"
   },
   pathPrefix: '/',
   plugins: [
