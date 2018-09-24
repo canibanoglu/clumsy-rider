@@ -10,7 +10,7 @@ const Footer = (props) => (
                         <span className="label">Strava</span>
                     </a>
                 </li>
-                <li><a href="https://www.instagram.com/canibanoglu/" className="icon alt fab fa-instagram"><span className="label">Instagram</span></a></li>
+                <li><a target="_blank" href="https://www.instagram.com/canibanoglu/" className="icon alt fab fa-instagram"><span className="label">Instagram</span></a></li>
             </ul>
             {/* <ul className="copyright">
                 <li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
