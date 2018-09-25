@@ -4,7 +4,7 @@ module.exports = {
     author: "Can Ibanoglu",
     description: "Adventures of a clumsy bike rider"
   },
-  pathPrefix: '/clumsy-rider',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
